@@ -8,4 +8,5 @@
 8. [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 6](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e)
 9. [Understanding Ethereum Smart Contract Storage](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
 10. [Understanding Trie Databases in Ethereum](https://medium.com/shyft-network/understanding-trie-databases-in-ethereum-9f03d2c3325d)
-11. [Huff Language](https://docs.huff.sh/)
+11. [3 Examples Of How To Use Assembly In Solidity](https://jamesbachini.com/assembly-in-solidity/)
+12. [Huff Language](https://docs.huff.sh/)
