@@ -6,6 +6,7 @@
 6. [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 4](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?s=r)
 7. [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 5](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f)
 8. [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 6](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e)
+    1. [Bloom Filters](https://llimllib.github.io/bloomfilter-tutorial/)
 9. [Understanding Ethereum Smart Contract Storage](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
 10. [Understanding Trie Databases in Ethereum](https://medium.com/shyft-network/understanding-trie-databases-in-ethereum-9f03d2c3325d)
 11. [3 Examples Of How To Use Assembly In Solidity](https://jamesbachini.com/assembly-in-solidity/)
