@@ -1,6 +1,6 @@
 ## MEV Memoirs:
-[MEV Memoirs: Into the Arena - Chapter 1, Part 1 🤖](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter?s=r)
-[MEV Memoirs: Into the Arena - Chapter 1, Part 2 🤖](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9)
+1. [MEV Memoirs: Into the Arena - Chapter 1, Part 1 🤖](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter?s=r)
+2. [MEV Memoirs: Into the Arena - Chapter 1, Part 2 🤖](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9)
 
 ## EVM Deep Dives:
 1. [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 1](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?utm_source=url&s=r)
