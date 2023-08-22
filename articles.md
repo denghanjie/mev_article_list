@@ -13,9 +13,13 @@
 6. [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 6](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e)
     1. [Bloom Filters](https://llimllib.github.io/bloomfilter-tutorial/)
 
-## Assembly&Huff
+## Assembly&Huff for Gas Optimization
 
 1. [3 Examples Of How To Use Assembly In Solidity](https://jamesbachini.com/assembly-in-solidity/)
-2. [Mastering Solidity Assembly (YUL) Opcodes](https://www.youtube.com/playlist?list=PL5hld-skrdFrxGUmmEbG1LBvYVyTE9M62)
+2. [Beginner's Guide to YulMarq](https://medium.com/@MarqyMarq/beginners-guide-to-yul-12a0a18095ef)
+3. [Using Yul To Optimize Gas Costs Marq CoinsBench](https://coinsbench.com/using-yul-to-optimize-gas-costs-b4feccdb5172)
+4. [Mastering Solidity Assembly (YUL) Opcodes - Youtube Videos](https://www.youtube.com/playlist?list=PL5hld-skrdFrxGUmmEbG1LBvYVyTE9M62)
     1. [Code in video at github repo](https://github.com/OnahProsperity/yul/tree/main)
-3. [Huff Language](https://docs.huff.sh/)
+5. [Advanced Solidity: Yul and Assembly - Paid Udemy Course](https://www.udemy.com/course/advanced-solidity-yul-and-assembly/)
+6. [Solidity vs. Vyper | EVM Smart Contract Language Comparisons](https://mirror.xyz/patrickalphac-old.eth/xKeHbAk9z7-GoLvtAy-cz05SBeeviPliUm6EvD0fkjg)
+7. [Huff Language](https://docs.huff.sh/)
