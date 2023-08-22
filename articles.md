@@ -15,5 +15,7 @@
 
 ## Assembly&Huff
 
-7. [3 Examples Of How To Use Assembly In Solidity](https://jamesbachini.com/assembly-in-solidity/)
-2. [Huff Language](https://docs.huff.sh/)
+1. [3 Examples Of How To Use Assembly In Solidity](https://jamesbachini.com/assembly-in-solidity/)
+2. [Mastering Solidity Assembly (YUL) Opcodes](https://www.youtube.com/playlist?list=PL5hld-skrdFrxGUmmEbG1LBvYVyTE9M62)
+    1. [Code in video at github repo](https://github.com/OnahProsperity/yul/tree/main)
+3. [Huff Language](https://docs.huff.sh/)
